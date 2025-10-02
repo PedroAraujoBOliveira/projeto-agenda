@@ -35,6 +35,7 @@ O foco do projeto é o **acesso ao banco de dados**, implementação de **CRUDs*
 ---
 
 ## 📂 Estrutura de pastas
+```bash
 projeto1-agenda/
 │── logs/
 │   └── erros.log
@@ -51,7 +52,7 @@ projeto1-agenda/
 │   └── index.js
 │── package.json
 │── package-lock.json
-
+```
 ---
 
 ## 🚀 Como executar o projeto
