@@ -36,7 +36,7 @@ O foco do projeto é o **acesso ao banco de dados**, implementação de **CRUDs*
 
 ## 📂 Estrutura de pastas
 ```bash
-projeto1-agenda/
+projeto-agenda/
 │── logs/
 │   └── erros.log
 │── src/
@@ -59,7 +59,7 @@ projeto1-agenda/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/projeto1-agenda.git
+git clone https://github.com/PedroAraujoBOliveira/projeto-agenda.git
 cd projeto1-agenda
 ```
 
