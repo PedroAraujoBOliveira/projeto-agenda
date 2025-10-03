@@ -103,4 +103,4 @@ Todos os erros são registrados em logs/erros.log.
 O campo email de Usuário é único → não é possível cadastrar usuários repetidos.
 
 ### 👨‍💻 Autores
-*Pedro Araujo Bueno de Oliveira* e *Leonardo Rodrigues de Souza* <br> *Engenharia de Computação – UTFPR* <br> *Projeto desenvolvido para a disciplina Programação Web Back-End*
+**Pedro Araujo Bueno de Oliveira** e **Leonardo Rodrigues de Souza** <br> *Engenharia de Computação – UTFPR* <br> *Projeto desenvolvido para a disciplina Programação Web Back-End*
