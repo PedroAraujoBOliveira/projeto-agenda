@@ -102,5 +102,5 @@ As collections (usuarios, calendarios, eventos) são criadas automaticamente no 
 Todos os erros são registrados em logs/erros.log.
 O campo email de Usuário é único → não é possível cadastrar usuários repetidos.
 
-### 👨‍💻 Autor
-*Pedro Araujo Bueno de Oliveira* <br> *Engenharia de Computação – UTFPR* <br> *Projeto desenvolvido para a disciplina Programação Web Back-End*
+### 👨‍💻 Autores
+*Pedro Araujo Bueno de Oliveira* e *Leonardo Rodrigues de Souza* <br> *Engenharia de Computação – UTFPR* <br> *Projeto desenvolvido para a disciplina Programação Web Back-End*
