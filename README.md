@@ -84,7 +84,7 @@ mongod              # Linux/Mac
 
 ### 4. Executar o projeto
 ```bash
-node src/index.js
+node src/server.js
 ```
 
 ### 5. Saída esperada no terminal
